@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8633d525-1c83-4ac5-8839-73f7d9f8d90a" name="Default Changelist" comment="" />
+    <list default="true" id="8633d525-1c83-4ac5-8839-73f7d9f8d90a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zbs5Bcy5BbUrf4TdewfYUpd1dq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium/client-combined-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -36,24 +49,48 @@
       <option name="presentableId" value="Default" />
       <updated>1585118942384</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added selenium">
+      <created>1585119772567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585119772567</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Restored missing files">
+      <created>1585119892511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585119892511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added selenium" />
+    <MESSAGE value="Restored missing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restored missing files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="118" key="CommitChangelistDialog2" timestamp="1585119771639">
+    <state x="790" y="236" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585120177762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="118" key="CommitChangelistDialog2/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119771639" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1585119726021">
+    <state x="790" y="236" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585120177762" />
+    <state x="627" y="118" key="CommitChangelistDialog2" timestamp="1585119892019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="277" key="FileChooserDialogImpl/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119726021" />
-    <state x="440" y="97" key="SettingsEditor" timestamp="1585119726714">
+    <state x="627" y="118" key="CommitChangelistDialog2/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119892019" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1585120149282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="97" key="SettingsEditor/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119726714" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585119785575">
+    <state x="740" y="277" key="FileChooserDialogImpl/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585120149282" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1585120183746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119785575" />
+    <state x="440" y="97" key="SettingsEditor/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585120183746" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585119901342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585119901342" />
   </component>
 </project>
